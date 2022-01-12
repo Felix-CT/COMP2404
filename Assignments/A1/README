@@ -1,0 +1,10 @@
+Program creator: Felix Cardinal Tremblay
+Student Number: 101141593
+Purpose of the program: Practicing the implementation of the classes needed for a calendar program.
+Source files: Agenda.cc, Calendar.cc, Date.cc, main.cc
+Header files: Agenda.h, Calendar.h, Date.h
+
+Instructions: In order to run the program, please untar the file (which you must have
+already done), navigate to the folder you extracted all the files to within the terminal.
+Next, enter "make" in the command prompt, and then type in "./a1". This will create
+and run the executable.
